@@ -1,1 +1,1 @@
-# Programming-Practice
+# 나의 코딩일기
